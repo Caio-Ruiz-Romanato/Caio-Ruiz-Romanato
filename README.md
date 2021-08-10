@@ -1,6 +1,6 @@
 # Caio-Ruiz
 
-<img align="right" src="https://github.com/Caio-Ruiz-Romanato/Caio-Ruiz-Romanato/blob/main/20945431-removebg-preview.png" width="350"/>
+<img align="right" src="https://github.com/Caio-Ruiz-Romanato/Caio-Ruiz-Romanato/blob/main/20945431-removebg-preview.png" width="450"/>
 
 
 If you have accessed this page then welcome 🙋!!!
