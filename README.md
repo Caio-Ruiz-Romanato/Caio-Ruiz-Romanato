@@ -1,6 +1,6 @@
 # Caio-Ruiz
 
-<img align="right" src="https://github.com/Caio-Ruiz-Romanato/Caio-Ruiz-Romanato/blob/main/2002.i201.017.programming%20coding%20development%20isometric.jpg" width="250"/>
+<img align="right" src="https://github.com/Caio-Ruiz-Romanato/Caio-Ruiz-Romanato/blob/main/20945431-removebg-preview.png" width="250"/>
 
 
 If you have accessed this page then welcome 🙋!!!
