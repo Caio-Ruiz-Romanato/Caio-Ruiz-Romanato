@@ -15,7 +15,7 @@ Este é o meu espaço de estudo em geral, estou me aprofundando na área e gosta
 
 ## Hard Skills 
 
-> Desenvolvimento Web 
+> Desenvolvimento Front End 
 - HTML5
 - CSS3
 - JavaScript
@@ -23,6 +23,10 @@ Este é o meu espaço de estudo em geral, estou me aprofundando na área e gosta
 - Python(Basic)
 - PHP(Basic)
 - Node.Js (Basic)
+
+> Desenvolvimento Back End
+- Java
+- .Net
 
 > Banco de Dados 
 - Firebase (Basic)
