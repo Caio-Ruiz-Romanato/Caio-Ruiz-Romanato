@@ -16,22 +16,22 @@ Este é o meu espaço de estudo em geral, estou me aprofundando na área e gosta
 ## Hard Skills 
 
 > Desenvolvimento Front End 
-- HTML5
-- CSS3
-- JavaScript
-- WordPress
-- Python(Basic)
-- PHP(Basic)
-- Node.Js (Basic)
+- HTML5 (Intermediário)
+- CSS3 (Intermediário)
+- JavaScript (Básico)
+- WordPress (Intermediário)
+- Python (Básico)
+- PHP (Básico)
+- Node.Js (Básico)
 
 > Desenvolvimento Back End
-- Java
-- .Net
+- Java (Básico)
+- .Net (Básico)
 
 > Banco de Dados 
-- Firebase (Basic)
-- MySQL (Basic)
-- Oracle(basic)
+- Firebase (Básico)
+- MySQL (Básico)
+- Oracle(Básico)
 
 
 
