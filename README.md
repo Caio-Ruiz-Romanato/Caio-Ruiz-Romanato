@@ -20,13 +20,14 @@ Este é o meu espaço de estudo em geral, estou me aprofundando na área e gosta
 - CSS3 (Intermediário)
 - JavaScript (Básico)
 - WordPress (Intermediário)
-- Python (Básico)
-- PHP (Básico)
 - Node.Js (Básico)
 
 > Desenvolvimento Back End
 - Java (Básico)
 - .Net (Básico)
+- C# (Básico)
+- Python (Intermediário)
+- PHP (Básico)
 
 > Banco de Dados 
 - Firebase (Básico)
