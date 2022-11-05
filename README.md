@@ -18,7 +18,7 @@ Este é o meu espaço de estudo em geral, estou me aprofundando na área e gosta
 > Desenvolvimento Front End 
 - HTML5 (Intermediário)
 - CSS3 (Intermediário)
-- JavaScript (Básico)
+- JavaScript (Intermediário)
 - WordPress (Intermediário)
 - Node.Js (Básico)
 
@@ -26,13 +26,8 @@ Este é o meu espaço de estudo em geral, estou me aprofundando na área e gosta
 - Java (Básico)
 - .Net (Básico)
 - C# (Básico)
-- Python (Intermediário)
+- Python (Básico)
 - PHP (Básico)
 
 > Banco de Dados 
-- Firebase (Básico)
 - MySQL (Básico)
-- Oracle(Básico)
-
-
-
