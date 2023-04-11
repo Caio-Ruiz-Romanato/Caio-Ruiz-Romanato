@@ -15,20 +15,7 @@ Este é o meu espaço de estudo em geral, estou me aprofundando na área e gosta
 
 ## Hard Skills 
 
-Desenvolvimento Front End
+> Desenvolvimento Front End
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-- HTML5 (Intermediário)
-- CSS3 (Intermediário)
-- JavaScript (Intermediário)
-- WordPress (Intermediário)
-- Node.Js (Básico)
-
-Desenvolvimento Back End
-- Java (Básico)
-- .Net (Básico)
-- C# (Básico)
-- Python (Básico)
-- PHP (Básico)
-
-Banco de Dados 
-- MySQL (Básico)
+ 
