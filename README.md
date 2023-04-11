@@ -13,15 +13,22 @@ Este é o meu espaço de estudo em geral, estou me aprofundando na área e gosta
 
 [![Gmail Badge](https://img.shields.io/badge/-caioruizromanato@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caioruizromanato@gmail.com)](mailto:caioruizromanato@gmail.com)
 
-## Hard Skills 
-
-> Desenvolvimento Front End
+## Hard Skills Desenvolvimento Front End
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
           
-          
+
+## Hard Skills Desenvolvimento Back End
+
+
+
+<div>
+<a href="https://github.com/Caio-Ruiz-Romanato">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
           
  
