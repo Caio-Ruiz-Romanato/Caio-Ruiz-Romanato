@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/Caio-Ruiz-Romanato/Caio-Ruiz-Romanato/blob/main/20945431-removebg-preview.png" width="450"/>
 
 
-Se você acessou esta página, então seja bem vindo-🙋!!!
+Se você acessou esta página, então seja bem vindo 💻💻💻💻💻💻💻💻
 
 Este é o meu espaço de estudo em geral, estou me aprofundando na área e gostaria de compartilhar meu conhecimento, sou apaixonado por tecnologia e como as coisas funcionam. Futuramente pretendo desenvolver um projeto que mude a rotina doméstica das pessoas. 
 
@@ -23,8 +23,14 @@ Este é o meu espaço de estudo em geral, estou me aprofundando na área e gosta
 
 ## Hard Skills Desenvolvimento Back End
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
-
+## Hard Skills DB
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+          
 <div>
 <a href="https://github.com/Caio-Ruiz-Romanato">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Ruiz-Romanato&layout=compact&langs_count=7&theme=dracula"/>
