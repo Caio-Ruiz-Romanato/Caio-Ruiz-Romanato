@@ -3,9 +3,13 @@
 <img align="right" src="https://github.com/Caio-Ruiz-Romanato/Caio-Ruiz-Romanato/blob/main/20945431-removebg-preview.png" width="450"/>
 
 
-Se você acessou esta página, então seja bem vindo 💻💻
+Bem-vindo ao meu perfil! Sou um entusiasta de TI com formação em Análise e Desenvolvimento de Sistemas, apaixonado por criar soluções de software que fazem a diferença. Aqui está um pouco sobre mim:
 
-Profissional de TI com formação em Análise e Desenvolvimento de Sistemas, dedicado a aprimorar e aplicar conhecimentos em desenvolvimento de software utilizando uma variedade de tecnologias, incluindo Java, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate e MySQL. Com uma paixão pela evolução tecnológica, busco constantemente a atualização sobre as mais recentes tendências e ferramentas, visando sempre a entrega de soluções inovadoras e eficientes.
+💼 Profissional de TI com foco em desenvolvimento de software.
+🌱 Atualmente aprimorando minhas habilidades em Java, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate e MySQL.
+🚀 Sempre em busca de aprender sobre as últimas tendências e ferramentas tecnológicas.
+💡 Comprometido em entregar soluções inovadoras e eficientes que agreguem valor aos projetos.
+Se você também é apaixonado por tecnologia e desenvolvimento de software, vamos nos conectar e colaborar em projetos interessantes!
 
 ## Meu contato: 
 
