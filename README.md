@@ -52,7 +52,7 @@ Se você também é apaixonado por tecnologia e desenvolvimento de software, vam
     
 <a href="https://github.com/Caio-Ruiz-Romanato">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Ruiz-Romanato&layout=compact&langs_count=7&theme=blue-green"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Caio-Ruiz-Romanato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Caio-Ruiz-Romanato&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
 </div>
           
  
