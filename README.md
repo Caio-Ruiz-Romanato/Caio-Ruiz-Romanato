@@ -29,7 +29,6 @@ Se você também é apaixonado por tecnologia e desenvolvimento de software, vam
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
           
-
 ## Hard Skills Desenvolvimento Back End
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -39,6 +38,8 @@ Se você também é apaixonado por tecnologia e desenvolvimento de software, vam
 
 ## Hard Skills DB
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+
+
           
 <div>
 <a href="https://github.com/Caio-Ruiz-Romanato">
