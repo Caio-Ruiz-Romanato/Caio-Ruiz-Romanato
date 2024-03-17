@@ -45,10 +45,11 @@ Se você também é apaixonado por tecnologia e desenvolvimento de software, vam
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </div>
 
+## Stacks
 <div>
 <a href="https://github.com/Caio-Ruiz-Romanato">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Ruiz-Romanato&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Ruiz-Romanato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Ruiz-Romanato&layout=compact&langs_count=7&theme=dracula"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=Caio-Ruiz-Romanato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
  
