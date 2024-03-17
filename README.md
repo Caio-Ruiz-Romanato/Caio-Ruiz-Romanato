@@ -49,10 +49,10 @@ Se você também é apaixonado por tecnologia e desenvolvimento de software, vam
 
 
 <div>
-    [![trophy](https://github-profile-trophy.vercel.app/?Caio-Ruiz-Romanato=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+    
 <a href="https://github.com/Caio-Ruiz-Romanato">
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Ruiz-Romanato&layout=compact&langs_count=7&theme=dracula"/>
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=Caio-Ruiz-Romanato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Ruiz-Romanato&layout=compact&langs_count=7&theme=blue-green"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Caio-Ruiz-Romanato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
  
