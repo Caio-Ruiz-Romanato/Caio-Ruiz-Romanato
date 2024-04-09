@@ -51,9 +51,9 @@ Se você também é apaixonado por tecnologia e desenvolvimento de software, vam
     <img src="https://streak-stats.demolab.com/?user=Caio-Ruiz-Romanato&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)">
 </div>
 
-##Most used Languages
+## Most used Languages
 <div>
-    <img sr="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Ruiz-Romanato&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Ruiz-Romanato&layout=compact&theme=bear&background=000&border=30A3DC&dates=FFF">
 </div>
           
  
