@@ -19,8 +19,6 @@ Se você também é apaixonado por tecnologia e desenvolvimento de software, vam
 
 [![Linkedin Badge](https://img.shields.io/badge/-Caio%20Ruiz-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/caio-ruiz-5aa023187/)](https://www.linkedin.com/in/caio-ruiz-5aa023187/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-caioruizromanato@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caioruizromanato@gmail.com)](mailto:caioruizromanato@gmail.com)
-
 ## Hard Skills Desenvolvimento Front End
 
 <div style="display: flex;">
