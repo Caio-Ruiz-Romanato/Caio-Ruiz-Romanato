@@ -1,7 +1,6 @@
 # Caio-Ruiz
 
-<img align="right" src="https://github.com/Caio-Ruiz-Romanato/Caio-Ruiz-Romanato/blob/main/20945431-removebg-preview.png" width="450"/>
-
+<img align="right" src="https://github.com/Caio-Ruiz-Romanato/Caio-Ruiz-Romanato/blob/main/logGit.jpg" width="450" style="border-radius: 20px; border: 5px solid #000;"/>
 
 Bem-vindo ao meu perfil! 
 Sou um entusiasta de TI com formação em Análise e Desenvolvimento de Sistemas, apaixonado por criar soluções de software que fazem a diferença. Aqui está um pouco sobre mim:
