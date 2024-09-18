@@ -10,8 +10,6 @@ Sou um entusiasta de TI com formação em Análise e Desenvolvimento de Sistemas
 🚀 Sempre em busca de aprender sobre as últimas tendências e ferramentas tecnológicas.  
 💡 Comprometido em entregar soluções inovadoras e eficientes que agreguem valor aos projetos.
 
-Se você também é apaixonado por tecnologia e desenvolvimento de software, vamos nos conectar e colaborar em projetos interessantes!
-
 ---
 
 ## Meu contato:
