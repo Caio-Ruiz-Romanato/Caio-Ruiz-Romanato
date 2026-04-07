@@ -1,6 +1,6 @@
 # Caio-Ruiz
 
-<img align="right" src="https://github.com/Caio-Ruiz-Romanato/Caio-Ruiz-Romanato/blob/main/logGit.jpg" width="350" style="border-radius: 15px; border: 3px solid #000;"/>
+<img align="right" src="https://github.com/Caio-Ruiz-Romanato/Caio-Ruiz-Romanato/blob/main/SysPixu.png" width="350" style="border-radius: 15px; border: 3px solid #000;"/>
 
 Welcome to my profile!
 I am an IT enthusiast with a degree in Systems Analysis and Development, passionate about building software solutions that make a difference. Here’s a little about me:
